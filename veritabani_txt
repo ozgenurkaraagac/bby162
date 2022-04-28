@@ -1,0 +1,51 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "veritabani.txt",
+      "provenance": [],
+      "authorship_tag": "ABX9TyN6qGBWp/lp2Q0r2Y3JmQBt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ozgenurkaraagac/hu-bby162-2022/blob/main/veritabani_txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "PVgKed5pTnEr"
+      },
+      "outputs": [],
+      "source": [
+        "Harry Potter ve Felsefe Taşı - J. K. Rowling - 2016 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Sırlar Odası - J. K. Rowling - 2005 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Azkaban Tutsağı - J. K. Rowling - 2006 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Ateş Kadehi - J. K. Rowling - 2000 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Zümrüdüanka Yoldaşlığı - J. K. Rowling - 2003 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Melez Prens - J. K. Rowling - 2005 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Ölüm Yadigarları - J. K. Rowling - 2007 - Yapı Kredi Yayınları\n",
+        "Harry Potter ve Lanetli Çocuk-Birinci ve İkinci Bölüm - J. K. Rowling - 2019 - Yapı Kredi Yayınları\n",
+        "Fantastik Canavarlar-Nelerdir Nerede Bulunurlar? - J. K. Rowling - 2018 - Yapı Kredi Yayınları\n",
+        "Fantastik Canavarlar: Grindewald'ın Suçları - J. K. Rowling - 2019 - Yapı Kredi Yayınları\n"
+      ]
+    }
+  ]
+}
