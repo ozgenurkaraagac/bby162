@@ -1,7 +1,7 @@
-Olasılıksız - Adam Fawer - 2009 - April Yayıncılık
-Savaş ve Barış - Tolstoy - 1987 - Oda Yayınları
-Sapiens - Yuval Noah Harari - 2016 - Kolektif Kitap
-Sınırsız Güç - Anthony Robbins - 2008 - İnkılab Kitabevi
-Kehanet - John Kilgallon - 2011 - Pegasus Yayınları
-Simyacı - Paulo Coelho - 2017 - Can Yayınları
-Sergüzeşt - Samipaşazade Sezai - 2004 - Bordo Siyah Klasik Yayınları
+Olasılıksız|Adam Fawer|2009|April Yayıncılık
+Savaş ve Barış|Tolstoy|1987|Oda Yayınları
+Sapiens|Yuval Noah Harari|2016|Kolektif Kitap
+Sınırsız Güç|Anthony Robbins|2008|İnkılab Kitabevi
+Kehanet|John Kilgallon|2011|Pegasus Yayınları
+Simyacı|Paulo Coelho|2017|Can Yayınları
+Sergüzeşt|Samipaşazade Sezai|2004|Bordo Siyah Klasik Yayınları
